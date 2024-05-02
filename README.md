@@ -1,7 +1,7 @@
 # vscode-settings
 
 
-### Extensions
+## Extensions
 
 
 
