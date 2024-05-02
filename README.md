@@ -1,6 +1,10 @@
 # vscode-settings
 
 
+### Extensions
+
+
+
 ## Settings
 ```json
 {
