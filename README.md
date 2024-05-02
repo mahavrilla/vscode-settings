@@ -2,7 +2,7 @@
 
 
 ## Settings
-```
+```json
 {
     "workbench.startupEditor": "none",
     "workbench.editor.limit.enabled": true,
